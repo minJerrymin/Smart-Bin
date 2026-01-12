@@ -2,6 +2,7 @@
 
 Smart Bin is a sensor-based interactive waste monitoring system.  
 The project combines automatic lid opening with capacity detection to improve hygiene and usability in everyday waste disposal.
+
 A reliable, practical desktop waste storage solution
 
 
