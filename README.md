@@ -76,7 +76,6 @@ The repository includes demonstration videos showing system operation:
 
 ---
 
----
 
 ## Author
 
