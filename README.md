@@ -63,7 +63,7 @@ The program runs in a continuous loop and uses modular functions to handle:
 
 The following diagram shows the wiring between the Arduino, sensors, servo motor and power supply.
 
-![Smart Bin Circuit Diagram](fritzing circuit diagram.png)
+![Smart Bin Circuit Diagram](https://github.com/minJerrymin/Smart-Bin/blob/1100ad29c516e3bc90a3b9562d42e7ae5237bc17/fritzing%20circuit%20diagram.png)
 
 ---
 
